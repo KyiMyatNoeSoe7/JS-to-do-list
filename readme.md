@@ -5,7 +5,7 @@
 - [Text Input Field](#text-input-field)
 - [Add New Button](#add-new-button)
 - [Checkbox](#checkbox)
-- [Delete Button](#done-button)
+- [Delete Button](#delete-button)
 
 ## Text Input Field
 
