@@ -1,6 +1,6 @@
 # JS to-do-list
 
-![JS-to-do-list Image](./image/to-do-list.png)
+![JS-to-do-list Image](image/to-do-list.png)
 
 - [Text Input Field](#text-input-field)
 - [Add New Button](#add-new-button)
